@@ -13,6 +13,7 @@ function App() {
     <div className="App">
       <h1>Product Manager</h1>
       <p>
+        <Link to="/">Home</Link>
         <Link to="/dashboard">Dashboard</Link>
         <Link to="/products/new">Create a Product</Link>
       </p>
